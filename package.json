@@ -2,6 +2,7 @@
   "name": "coding-in-christmas",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +13,8 @@
   "devDependencies": {
     "standard": "^17.1.0",
     "vitest": "^1.0.1"
+  },
+  "eslintConfig": {
+    "extends": "standard"
   }
 }
