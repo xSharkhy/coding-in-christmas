@@ -4,11 +4,11 @@
 
 ## Descripción
 
-Este repositorio alberga soluciones a los retos de programación propuestos por las páginas Advent.js y Advent of Code en el año 2023. Estos desafíos están diseñados para poner a prueba tus habilidades de programación y resolución de problemas. ¡Esperamos que disfrutes resolviendo los retos navideños!
+Este repositorio alberga soluciones a los retos de programación propuestos por las páginas Advent.js y Advent of Code en el año 2023. Estos desafíos están diseñados para poner a prueba tus habilidades de programación y resolución de problemas.
 
 ## Estructura del Repositorio
 
-El repositorio está organizado por día, siguiendo la estructura estándar de Advent of Code. Cada día tiene su propio directorio que contiene las soluciones en varios lenguajes de programación, junto con las entradas de ejemplo proporcionadas por los desafíos.
+El repositorio está organizado por día, siguiendo la estructura estándar de Advent of Code. Cada día tiene su propio directorio que contiene las soluciones en varios lenguajes de programación (de momento, únicamente en JavaScript), junto con las entradas de ejemplo proporcionadas por los desafíos.
 
 ```
 /src
@@ -63,4 +63,4 @@ Aquí tienes una tabla que indica qué retos están resueltos. Haz clic en los e
 
 A medida que avancemos en diciembre, se actualizará la tabla con más marcas de verificación y enlaces.
 
-¡Diviértete resolviendo los desafíos y mejorando tus habilidades de programación! 🎄✨
+¡Gracias por pasarte por aquí! 🎄✨
